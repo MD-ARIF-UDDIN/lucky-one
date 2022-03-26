@@ -2,6 +2,7 @@ const Ques = () => {
   return (
     <div>
       <div className="w-50 mx-auto mt-5 row">
+        <h1>QUESTIONS AND ANSWER</h1>
         <div className="card col-lg-6">
           <h1>How react wroks?</h1>
           <p>
