@@ -11,7 +11,7 @@ const Food = (props) => {
         <div className='col-lg-4 col-sm-12 mt-5 phones-card'>
             <Card className=' shadow-lg rounded w-75'>
                 <div className='d-flex justify-content-center align-items-center mt-2'>
-                    <Card.Img className='card-image rounded' variant="top" src={img} />
+                    <Card.Img className='card-image rounded' variant="top" src={img} alt=""/>
                 </div>
                 <Card.Body>
                     <Card.Title>Name:{name}</Card.Title>
