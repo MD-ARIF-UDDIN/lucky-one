@@ -18,11 +18,11 @@ const Shop = () => {
 
         const exists = cart.find(food => food.id === foodItem.id)
         if (exists) {
-            alert('Already exist')
+            alert('this food already exist in cart')
             return
         }
         if (cart.length === 4) {
-            alert('Maximun number added')
+            alert('Maximun number of food added')
             return
         }
 
