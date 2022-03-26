@@ -9,7 +9,7 @@ const Cart = (props) => {
     return (
         <div className="shop-cart mt-5">
             <div>
-                <h3>Order Details</h3>
+                <h3>Order Summary</h3>
                 <h4>Your Order:</h4>
             </div>
             <div>

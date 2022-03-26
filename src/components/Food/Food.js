@@ -14,9 +14,9 @@ const Food = (props) => {
                     <Card.Img className='card-image rounded' variant="top" src={img} />
                 </div>
                 <Card.Body>
-                    <Card.Title>{name}</Card.Title>
+                    <Card.Title>Name:{name}</Card.Title>
                     <Card.Text>
-                        {price}
+                        price:{price}
                     </Card.Text>
                     <Button onClick={() => handleAddToCart(food)} variant="primary">Add To Cart <FontAwesomeIcon icon={faShoppingCart}></FontAwesomeIcon> </Button>
                 </Card.Body>
