@@ -2,71 +2,71 @@
     {
         "id": "623dda890cd94ce91ba33ea3",
         "price": 900,
-        "img": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "name": "iPhone 11",
-        "company": "Apple"
+        "img": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "pizza",
+        "company": "kfc"
     },
     {
         "id": "623dda89c956b76e22a5abc9",
         "price": 1100,
-        "img": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "name": "iPhone 12",
-        "company": "Apple"
+        "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "salad",
+        "company": "kfc"
     },
     {
         "id": "623dda89fbc557b43e576e04",
         "price": 1150,
-        "img": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "name": "iPhone 11 Pro Max",
-        "company": "Apple"
+        "img": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "french toast",
+        "company": "mcdonald"
     },
     {
         "id": "623dda89c8fca942b5663023",
         "price": 950,
-        "img": "https://images.unsplash.com/photo-1611472173362-3f53dbd65d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDR8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "name": "iPhone 12 Mini",
-        "company": "Apple"
+        "img": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "ice cream",
+        "company": "kfc"
     },
     {
         "id": "623dda89adf8d4e495edd20e",
-        "price": 900,
-        "img": "https://images.unsplash.com/photo-1541096017664-085dd9a616c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "name": "iPhone XS",
-        "company": "Apple"
+        "price": 300,
+        "img": "https://images.unsplash.com/photo-1587131791788-ec0cb04e0a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Zm9vZCUyMGl0ZW18ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Pancake",
+        "company": "kfc"
     },
     {
         "id": "623dda89b66f9bfbdba31a90",
-        "price": 1200,
-        "img": "https://images.unsplash.com/photo-1572538194597-42aeefa26482?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODB8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "name": "iPhone 12 Pro Max",
-        "company": "Apple"
+        "price": 200,
+        "img": "https://images.unsplash.com/photo-1587302206962-3a3ff19ae95a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fGZvb2QlMjBpdGVtfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Lollipop",
+        "company": "kamal"
     },
     {
         "id": "623dda892731db4b4c543c0d",
-        "price": 850,
-        "img": "https://images.unsplash.com/photo-1584265907987-b7ab44c91e66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODl8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "name": "iPhone XR",
-        "company": "Apple"
+        "price": 550,
+        "img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Burger",
+        "company": "mcdonald"
     },
     {
         "id": "623dda899dba56d0fbbfe09f",
-        "price": 1300,
-        "img": "https://images.unsplash.com/photo-1555375771-14b2a63968a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fGlwaG9uZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "name": "iPhone XS Max",
-        "company": "Apple"
+        "price": 300,
+        "img": "https://images.unsplash.com/photo-1630409346824-4f0e7b080087?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmlyaXlhbml8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Biriyani",
+        "company": "7days"
     },
     {
         "id": "623dda89f4f93a68879f44e2",
-        "price": 1150,
-        "img": "https://images.unsplash.com/photo-1615886490002-ae8172eea2de?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAzfHxpcGhvbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "name": "iPhone 13",
-        "company": "Apple"
+        "price": 150,
+        "img": "https://images.unsplash.com/photo-1575932444877-5106bee2a599?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmlyaXlhbml8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "name": "Fried Chicken",
+        "company": "melbourne"
     },
     {
         "id": "623dda89886755c446ee29ac",
-        "price": 650,
-        "img": "https://images.unsplash.com/photo-1542561598-4c798e65151b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTYwfHxpcGhvbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "name": "iPhone 7",
-        "company": "Apple"
+        "price": 250,
+        "img": "https://images.unsplash.com/photo-1630409351211-d62ab2d24da4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8a2hpY2hkaXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Khichuri",
+        "company": "sadias kitcehn"
     }
 ]

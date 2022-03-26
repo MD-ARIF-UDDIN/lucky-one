@@ -40,6 +40,7 @@ const Shop = () => {
                 <div className='row ms-4'>
                     {
                         foods.map(food => <Food
+                        key={food.id}
                             food={food}
                             handleAddToCart={handleAddToCart}
 
