@@ -9,7 +9,7 @@ const Cart = (props) => {
     return (
         <div className="shop-cart mt-5">
             <div>
-                <h3>Order Summary</h3>
+                <h3>Order Details</h3>
                 <h4>Your Order:</h4>
             </div>
             <div>
@@ -20,7 +20,7 @@ const Cart = (props) => {
                     <Button variant="primary">Choose one <FontAwesomeIcon icon={faRandom}></FontAwesomeIcon> </Button>
                 </div>
                 <div>
-                    <Button onClick={remove} variant="success">Delete <FontAwesomeIcon icon={faRemove}></FontAwesomeIcon> </Button>
+                    <Button onClick={remove} variant="success">Choose food again <FontAwesomeIcon icon={faRemove}></FontAwesomeIcon> </Button>
                 </div>
             </div>
         </div>
