@@ -5,6 +5,7 @@ import Food from '../Food/Food';
 const Shop = () => {
     const [foods, setFoods] = useState([])
     const [cart, setCart] = useState([])
+    const [randomFood,setRandomFood]=useState([])
 
     useEffect(() => {
         fetch('data.json')
@@ -29,10 +30,20 @@ const Shop = () => {
         setCart(newCart)
     }
 
-    const remove = () => {
-        const emptyCart = []
-        setCart(emptyCart)
+   
+    
+    const randomAdd=(foods)=>{
+        const random=Math.floor(Math.random()*foods.length)
+        const randomSelect=(foods[random])
+        setRandomFood(randomSelect)
     }
+
+    const removeEverything=()=>{
+        const emptyCart=[]
+        setCart(emptyCart)
+        setRandomFood(emptyCart)
+    }
+
 
     return (
         <div className='row container mx-auto'>
@@ -51,7 +62,9 @@ const Shop = () => {
             <div className='col-lg-3 col-sm-6 cart-container order-lg-2 order-sm-1'>
                 <Cart
                     cart={cart}
-                    remove={remove}
+                    removeEverything={removeEverything}
+                    randomAdd={randomAdd}
+                    randomFood={randomFood}
                 ></Cart>
             </div>
         </div>

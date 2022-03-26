@@ -6,7 +6,7 @@ const Order = (props) => {
     return (
         <div>
             <div className="d-flex justify-content-start align-items-center mt-3">
-                <img className="rounded-circle ordered-img" src={img} alt="" />
+                <img className="rounded-circle ordered-food-img" src={img} alt="" />
                 <p className='ms-2 fw-bold'>{name}</p>
 
             </div>

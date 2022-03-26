@@ -3,28 +3,28 @@
         "id": "623dda890cd94ce91ba33ea3",
         "price": 900,
         "img": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
-        "name": "pizza",
+        "name": "Pizza",
         "company": "kfc"
     },
     {
         "id": "623dda89c956b76e22a5abc9",
         "price": 1100,
         "img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "name": "salad",
+        "name": "Salad",
         "company": "kfc"
     },
     {
         "id": "623dda89fbc557b43e576e04",
         "price": 1150,
         "img": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "name": "french toast",
+        "name": "French toast",
         "company": "mcdonald"
     },
     {
         "id": "623dda89c8fca942b5663023",
         "price": 950,
         "img": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGZvb2R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "name": "ice cream",
+        "name": "Ice cream",
         "company": "kfc"
     },
     {
@@ -59,7 +59,7 @@
         "id": "623dda89f4f93a68879f44e2",
         "price": 150,
         "img": "https://images.unsplash.com/photo-1575932444877-5106bee2a599?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YmlyaXlhbml8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "name": "Fried Chicken",
+        "name": "Chicken Fry",
         "company": "melbourne"
     },
     {
